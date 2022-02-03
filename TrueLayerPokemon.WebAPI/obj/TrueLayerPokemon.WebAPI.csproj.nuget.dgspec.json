@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerPokemon.WebAPI\\TrueLayerPokemon.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerPokemon.WebAPI\\TrueLayerPokemon.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerPokemon.WebAPI\\TrueLayerPokemon.WebAPI.csproj",
+        "projectName": "TrueLayerPokemon.WebAPI",
+        "projectPath": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerPokemon.WebAPI\\TrueLayerPokemon.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\achil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerPokemon.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\achil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerTest\\TrueLayerPokemon.Library.csproj": {
+                "projectPath": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerTest\\TrueLayerPokemon.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerTest\\TrueLayerPokemon.Library.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerTest\\TrueLayerPokemon.Library.csproj",
+        "projectName": "TrueLayerPokemon.Library",
+        "projectPath": "C:\\Users\\achil\\source\\repos\\TrueLayerTest\\TrueLayerTest\\TrueLayerPokemon.Library.csproj",
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {}
+      }
+    }
+  }
+}

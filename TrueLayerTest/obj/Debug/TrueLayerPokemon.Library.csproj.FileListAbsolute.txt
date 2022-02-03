@@ -1,0 +1,13 @@
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\TrueLayerPokemon.Library.dll.config
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\TrueLayerPokemon.Library.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\TrueLayerPokemon.Library.pdb
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\System.Memory.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\System.Buffers.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\obj\Debug\TrueLayerPokemon.Library.csproj.CoreCompileInputs.cache
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\obj\Debug\TrueLayerPokemon.Library.csproj.CopyComplete
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\obj\Debug\TrueLayerPokemon.Library.dll
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\obj\Debug\TrueLayerPokemon.Library.pdb
+C:\Users\achil\source\repos\TrueLayerTest\TrueLayerTest\obj\Debug\TrueLayerPokemon.Library.csproj.AssemblyReference.cache
